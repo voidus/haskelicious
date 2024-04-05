@@ -53,9 +53,15 @@
         pkgs.mkShell {
           inputsFrom = [ haskellShell ];
           packages = [
+            # go
             bubbletea-capi-goEnv
             pkgs.gopls
             gomod2nix.legacyPackages.${system}.gomod2nix
+
+            # haskell
+            pkgs.haskell-language-server
+            pkgs.cabal-install
+            haskellPackages.cabal-fmt
           ];
         };
     })
