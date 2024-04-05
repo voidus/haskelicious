@@ -11,3 +11,5 @@ For a funny project name that plays on the idea of Haskell developers wanting to
 > yeah I kinda need a single word
 
 For a single-word, funny project name related to Haskell and its libraries, you might consider "Haskelicious." This name plays on the word "delicious," suggesting that using Haskell and its libraries is as delightful and satisfying as enjoying a great meal. It's a light-hearted way to acknowledge the joy and efficiency that can come from working with Haskell and its extensive library ecosystem.
+
+The computer says it's haskelicious, sorry, nothing I can do.
